@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fulstack Developement & AIML<br>👯 I’m looking to collaborate on Fullstack projects<br>🤝 I’m looking for help with DSA & AIML<br>🌱 I’m currently learning DSA<br>
+🔭 I’m currently working on Fullstack Developement & AIML<br>👯 I’m looking to collaborate on Fullstack projects<br>🤝 I’m looking for help with DSA & AIML<br>🌱 I’m currently learning DSA<br>
 
 
 ## 🌐 Socials:
